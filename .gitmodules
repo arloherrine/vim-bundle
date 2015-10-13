@@ -1,0 +1,24 @@
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "delimitMate"]
+	path = delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "indentLine"]
+	path = indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim-nerdtree-tabs"]
+	path = vim-nerdtree-tabs
+	url = git@github.com:jistr/vim-nerdtree-tabs.git

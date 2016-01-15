@@ -22,3 +22,6 @@
 [submodule "vim-nerdtree-tabs"]
 	path = vim-nerdtree-tabs
 	url = git@github.com:jistr/vim-nerdtree-tabs.git
+[submodule "vim-bazel"]
+	path = vim-bazel
+	url = https://github.com/davidzchen/vim-bazel.git

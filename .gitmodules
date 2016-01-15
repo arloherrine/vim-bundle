@@ -22,6 +22,9 @@
 [submodule "vim-nerdtree-tabs"]
 	path = vim-nerdtree-tabs
 	url = git@github.com:jistr/vim-nerdtree-tabs.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "vim-bazel"]
 	path = vim-bazel
 	url = https://github.com/davidzchen/vim-bazel.git
